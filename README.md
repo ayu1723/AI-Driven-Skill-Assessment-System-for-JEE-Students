@@ -114,7 +114,7 @@ Challenges: Learning difficulties
 
 Action Plan: Structured teaching recommendations
 
-🧑‍💻 Contributors
+### 🧑‍💻 Contributors
 Ayushi Gupta – Developer
 
 OpenAI's ChatGPT – Assistant in planning & design
