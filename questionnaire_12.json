@@ -1,0 +1,78 @@
+{
+  "title": "JEE SOCA Assessment - Class 12",
+  "questions": [
+    {
+      "id": "phy_mcq_1",
+      "type": "mcq",
+      "prompt": "The unit of magnetic flux is:",
+      "options": ["Tesla", "Weber", "Henry", "Farad"],
+      "answer_key": 1,
+      "weight": 1
+    },
+    {
+      "id": "chem_mcq_1",
+      "type": "mcq",
+      "prompt": "Which compound shows resonance?",
+      "options": ["CH4", "C2H4", "CO3^2-", "NH3"],
+      "answer_key": 2,
+      "weight": 1
+    },
+    {
+      "id": "math_mcq_1",
+      "type": "mcq",
+      "prompt": "The integral of 1/x is:",
+      "options": ["log(x)", "e^x", "x^2/2", "sin(x)"],
+      "answer_key": 0,
+      "weight": 1
+    },
+    {
+      "id": "time_scale",
+      "type": "scale",
+      "prompt": "Rate your efficiency in covering your syllabus on time.",
+      "min": 1,
+      "max": 5,
+      "weight": 1
+    },
+    {
+      "id": "revision_short",
+      "type": "short",
+      "prompt": "How do you revise Organic Chemistry before exams?",
+      "weight": 1
+    },
+    {
+      "id": "problem_conf_scale",
+      "type": "scale",
+      "prompt": "How confident are you with integration problems?",
+      "min": 1,
+      "max": 5,
+      "weight": 1
+    },
+    {
+      "id": "stress_scale",
+      "type": "scale",
+      "prompt": "How well do you handle last-minute preparation stress?",
+      "min": 1,
+      "max": 5,
+      "weight": 1
+    },
+    {
+      "id": "math_short",
+      "type": "short",
+      "prompt": "Explain your approach to solving differential equations.",
+      "weight": 1
+    },
+    {
+      "id": "study_resource_mcq",
+      "type": "mcq",
+      "prompt": "Which Physics resource do you prefer the most?",
+      "options": ["NCERT", "Coaching notes", "Online courses", "Reference books"],
+      "weight": 1
+    },
+    {
+      "id": "note_method",
+      "type": "short",
+      "prompt": "Describe how you organize your formula sheet.",
+      "weight": 1
+    }
+  ]
+}

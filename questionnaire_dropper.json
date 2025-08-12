@@ -1,0 +1,78 @@
+{
+  "title": "JEE SOCA Assessment - Dropper",
+  "questions": [
+    {
+      "id": "phy_mcq_1",
+      "type": "mcq",
+      "prompt": "The work done in moving a charge in an electric field depends on:",
+      "options": ["Path taken", "Potential difference", "Both A and B", "None"],
+      "answer_key": 1,
+      "weight": 1
+    },
+    {
+      "id": "chem_mcq_1",
+      "type": "mcq",
+      "prompt": "Which is the correct order of acidity?",
+      "options": ["H2O < H2SO4 < HCl", "HCl < H2SO4 < H2O", "H2SO4 < HCl < H2O", "HCl < H2O < H2SO4"],
+      "answer_key": 0,
+      "weight": 1
+    },
+    {
+      "id": "math_mcq_1",
+      "type": "mcq",
+      "prompt": "If sinθ = 3/5, find cosθ.",
+      "options": ["4/5", "-4/5", "5/3", "None"],
+      "answer_key": 0,
+      "weight": 1
+    },
+    {
+      "id": "time_scale",
+      "type": "scale",
+      "prompt": "How disciplined are you with your daily timetable?",
+      "min": 1,
+      "max": 5,
+      "weight": 1
+    },
+    {
+      "id": "revision_short",
+      "type": "short",
+      "prompt": "How do you balance revision and new topics as a dropper?",
+      "weight": 1
+    },
+    {
+      "id": "problem_conf_scale",
+      "type": "scale",
+      "prompt": "How confident are you in JEE-level Physics numerical problems?",
+      "min": 1,
+      "max": 5,
+      "weight": 1
+    },
+    {
+      "id": "stress_scale",
+      "type": "scale",
+      "prompt": "How well do you recover from poor mock test scores?",
+      "min": 1,
+      "max": 5,
+      "weight": 1
+    },
+    {
+      "id": "math_short",
+      "type": "short",
+      "prompt": "Explain your method for solving coordinate geometry problems.",
+      "weight": 1
+    },
+    {
+      "id": "study_resource_mcq",
+      "type": "mcq",
+      "prompt": "Which resource do you use the most for revision?",
+      "options": ["Coaching notes", "Previous year papers", "Online platforms", "Self-made notes"],
+      "weight": 1
+    },
+    {
+      "id": "note_method",
+      "type": "short",
+      "prompt": "Describe your revision note-making process.",
+      "weight": 1
+    }
+  ]
+}

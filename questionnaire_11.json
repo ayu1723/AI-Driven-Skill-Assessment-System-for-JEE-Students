@@ -1,0 +1,78 @@
+{
+  "title": "Class 11 JEE SOCA Assessment",
+  "questions": [
+    {
+      "id": "phy_mcq_1",
+      "type": "mcq",
+      "prompt": "Which of the following has the dimensions of velocity?",
+      "options": ["M^0L^1T^-1", "M^1L^1T^-2", "M^0L^2T^-2", "M^0L^1T^0"],
+      "answer_key": 0,
+      "weight": 1
+    },
+    {
+      "id": "chem_mcq_1",
+      "type": "mcq",
+      "prompt": "Which quantum number determines the shape of the orbital?",
+      "options": ["Principal quantum number (n)", "Azimuthal quantum number (l)", "Magnetic quantum number (m)", "Spin quantum number (s)"],
+      "answer_key": 1,
+      "weight": 1
+    },
+    {
+      "id": "math_mcq_1",
+      "type": "mcq",
+      "prompt": "If sin²θ + cos²θ = 1, what is the value of sin²45° + cos²45°?",
+      "options": ["1", "2", "0.5", "√2"],
+      "answer_key": 0,
+      "weight": 1
+    },
+    {
+      "id": "time_scale",
+      "type": "scale",
+      "prompt": "Rate your daily study consistency (1=Very inconsistent, 5=Very consistent)",
+      "min": 1,
+      "max": 5,
+      "weight": 1
+    },
+    {
+      "id": "rev_hours",
+      "type": "short",
+      "prompt": "How many hours do you dedicate to revision daily?",
+      "weight": 1
+    },
+    {
+      "id": "prob_scale",
+      "type": "scale",
+      "prompt": "Rate your confidence in solving kinematics problems (1-5)",
+      "min": 1,
+      "max": 5,
+      "weight": 1
+    },
+    {
+      "id": "stress_scale",
+      "type": "scale",
+      "prompt": "How well do you handle exam stress? (1-5)",
+      "min": 1,
+      "max": 5,
+      "weight": 1
+    },
+    {
+      "id": "chem_short_1",
+      "type": "short",
+      "prompt": "Explain the difference between sigma and pi bonds.",
+      "weight": 1
+    },
+    {
+      "id": "math_short_1",
+      "type": "short",
+      "prompt": "Describe your approach to solving coordinate geometry problems.",
+      "weight": 1
+    },
+    {
+      "id": "relax_mcq",
+      "type": "mcq",
+      "prompt": "Your preferred relaxation method before exams:",
+      "options": ["Meditation", "Exercise", "Talking to friends/family", "Entertainment"],
+      "weight": 1
+    }
+  ]
+}

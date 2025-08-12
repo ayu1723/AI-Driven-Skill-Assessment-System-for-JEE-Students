@@ -1,0 +1,77 @@
+{
+  "title": "JEE SOCA Assessment",
+  "questions": [
+    {
+      "id": "phy_mcq_1",
+      "type": "mcq",
+      "prompt": "Which of the following is the correct dimensional formula of Force?",
+      "options": ["ML^2T^-2", "MLT^-2", "ML^2T^-3", "M^2LT^-2"],
+      "answer_key": 1,
+      "weight": 1
+    },
+    {
+      "id": "chem_short_1",
+      "type": "short",
+      "prompt": "In Chemistry, briefly describe the difference between ionic and covalent bonds.",
+      "weight": 1
+    },
+    {
+      "id": "math_mcq_1",
+      "type": "mcq",
+      "prompt": "Solve for x: 2x^2 - 8x + 6 = 0. (choose an option)",
+      "options": ["1 and 3", "2 and 3", "1 and 2", "None of the above"],
+      "answer_key": 2,
+      "weight": 1
+    },
+    {
+      "id": "time_scale",
+      "type": "scale",
+      "prompt": "How effectively do you plan your study schedule in advance? (1=Not at all, 5=Very well)",
+      "min": 1,
+      "max": 5,
+      "weight": 1
+    },
+    {
+      "id": "hours_split",
+      "type": "short",
+      "prompt": "Roughly how many hours a day do you dedicate to revision versus new topics? (eg: 2h revision / 4h new)",
+      "weight": 1
+    },
+    {
+      "id": "problem_conf_scale",
+      "type": "scale",
+      "prompt": "How confident are you in approaching unfamiliar problems in mock tests? (1-5)",
+      "min": 1,
+      "max": 5,
+      "weight": 1
+    },
+    {
+      "id": "stress_scale",
+      "type": "scale",
+      "prompt": "How well do you manage exam-related stress? (1-5)",
+      "min": 1,
+      "max": 5,
+      "weight": 1
+    },
+    {
+      "id": "relax_method",
+      "type": "mcq",
+      "prompt": "Which method do you use most often to relax before exams?",
+      "options": ["Meditation", "Exercise", "Talking to friends/family", "Entertainment (movies/music/games)"],
+      "weight": 1
+    },
+    {
+      "id": "study_resource",
+      "type": "mcq",
+      "prompt": "Which resource do you rely on most for Physics preparation?",
+      "options": ["NCERT textbooks", "Coaching material", "Online lectures", "Reference books"],
+      "weight": 1
+    },
+    {
+      "id": "note_method",
+      "type": "short",
+      "prompt": "Describe your preferred note-taking method and why it works for you.",
+      "weight": 1
+    }
+  ]
+}

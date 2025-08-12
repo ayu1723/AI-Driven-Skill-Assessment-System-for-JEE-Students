@@ -1,0 +1,584 @@
+[
+    {
+        "student": "Student",
+        "timestamp": "2025-08-12T17:28:13.756499",
+        "score_obtained": 1.5,
+        "total_weight": 10.0,
+        "percent_score": 15.0,
+        "details": {
+            "phy_mcq_1": {
+                "result": "incorrect",
+                "weight": 0
+            },
+            "chem_short_1": {
+                "value": "chem is imp"
+            },
+            "math_mcq_1": {
+                "result": "incorrect",
+                "weight": 0
+            },
+            "time_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "hours_split": {
+                "value": "3"
+            },
+            "problem_conf_scale": {
+                "value": 2.0,
+                "normalized": 0.25
+            },
+            "stress_scale": {
+                "value": 4.0,
+                "normalized": 0.75
+            },
+            "relax_method": {
+                "value": 0
+            },
+            "study_resource": {
+                "value": 2
+            },
+            "note_method": {
+                "value": "notes taking"
+            }
+        }
+    },
+    {
+        "student": "Student",
+        "timestamp": "2025-08-12T19:09:02.405932",
+        "score_obtained": 1.5,
+        "total_weight": 10.0,
+        "percent_score": 15.0,
+        "details": {
+            "phy_mcq_1": {
+                "result": "incorrect",
+                "weight": 0
+            },
+            "chem_short_1": {
+                "value": ""
+            },
+            "math_mcq_1": {
+                "result": "incorrect",
+                "weight": 0
+            },
+            "time_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "hours_split": {
+                "value": ""
+            },
+            "problem_conf_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "stress_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "relax_method": {
+                "value": 0
+            },
+            "study_resource": {
+                "value": 0
+            },
+            "note_method": {
+                "value": ""
+            }
+        }
+    },
+    {
+        "student": "Student",
+        "timestamp": "2025-08-12T19:10:12.505439",
+        "score_obtained": 1.5,
+        "total_weight": 10.0,
+        "percent_score": 15.0,
+        "details": {
+            "phy_mcq_1": {
+                "result": "incorrect",
+                "weight": 0
+            },
+            "chem_short_1": {
+                "value": "The key difference between an ionic and covalent bond is that one atom essentially donates an electron to another atom in an ionic bond while electrons are shared between atoms in a covalent bond. Ionic bonds form between a metal and a nonmetal. Covalent bonds form between two nonmetals."
+            },
+            "math_mcq_1": {
+                "result": "incorrect",
+                "weight": 0
+            },
+            "time_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "hours_split": {
+                "value": "8"
+            },
+            "problem_conf_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "stress_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "relax_method": {
+                "value": 0
+            },
+            "study_resource": {
+                "value": 0
+            },
+            "note_method": {
+                "value": "outline method"
+            }
+        }
+    },
+    {
+        "student": "Student",
+        "timestamp": "2025-08-12T19:13:50.997685",
+        "score_obtained": 2.5,
+        "total_weight": 10.0,
+        "percent_score": 25.0,
+        "details": {
+            "phy_mcq_1": {
+                "result": "correct",
+                "weight": 1
+            },
+            "chem_short_1": {
+                "value": "The key difference between an ionic and covalent bond is that one atom essentially donates an electron to another atom in an ionic bond while electrons are shared between atoms in a covalent bond. Ionic bonds form between a metal and a nonmetal. Covalent bonds form between two nonmetals."
+            },
+            "math_mcq_1": {
+                "result": "incorrect",
+                "weight": 0
+            },
+            "time_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "hours_split": {
+                "value": "8"
+            },
+            "problem_conf_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "stress_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "relax_method": {
+                "value": 0
+            },
+            "study_resource": {
+                "value": 0
+            },
+            "note_method": {
+                "value": "outline method"
+            }
+        }
+    },
+    {
+        "student": "Student",
+        "timestamp": "2025-08-12T19:14:08.036998",
+        "score_obtained": 2.5,
+        "total_weight": 10.0,
+        "percent_score": 25.0,
+        "details": {
+            "phy_mcq_1": {
+                "result": "correct",
+                "weight": 1
+            },
+            "chem_short_1": {
+                "value": ""
+            },
+            "math_mcq_1": {
+                "result": "incorrect",
+                "weight": 0
+            },
+            "time_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "hours_split": {
+                "value": ""
+            },
+            "problem_conf_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "stress_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "relax_method": {
+                "value": 0
+            },
+            "study_resource": {
+                "value": 0
+            },
+            "note_method": {
+                "value": ""
+            }
+        }
+    },
+    {
+        "student": "Student",
+        "timestamp": "2025-08-12T19:15:26.340058",
+        "score_obtained": 2.5,
+        "total_weight": 10.0,
+        "percent_score": 25.0,
+        "details": {
+            "phy_mcq_1": {
+                "result": "correct",
+                "weight": 1
+            },
+            "chem_short_1": {
+                "value": ""
+            },
+            "math_mcq_1": {
+                "result": "incorrect",
+                "weight": 0
+            },
+            "time_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "hours_split": {
+                "value": ""
+            },
+            "problem_conf_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "stress_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "relax_method": {
+                "value": 0
+            },
+            "study_resource": {
+                "value": 0
+            },
+            "note_method": {
+                "value": ""
+            }
+        }
+    },
+    {
+        "student": "Student",
+        "timestamp": "2025-08-12T19:16:24.231120",
+        "score_obtained": 2.5,
+        "total_weight": 10.0,
+        "percent_score": 25.0,
+        "details": {
+            "phy_mcq_1": {
+                "result": "correct",
+                "weight": 1
+            },
+            "chem_short_1": {
+                "value": ""
+            },
+            "math_mcq_1": {
+                "result": "incorrect",
+                "weight": 0
+            },
+            "time_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "hours_split": {
+                "value": ""
+            },
+            "problem_conf_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "stress_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "relax_method": {
+                "value": 0
+            },
+            "study_resource": {
+                "value": 0
+            },
+            "note_method": {
+                "value": ""
+            }
+        }
+    },
+    {
+        "student": "Student",
+        "timestamp": "2025-08-12T19:16:32.128519",
+        "score_obtained": 3.5,
+        "total_weight": 10.0,
+        "percent_score": 35.0,
+        "details": {
+            "phy_mcq_1": {
+                "result": "correct",
+                "weight": 1
+            },
+            "chem_short_1": {
+                "value": ""
+            },
+            "math_mcq_1": {
+                "result": "correct",
+                "weight": 1
+            },
+            "time_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "hours_split": {
+                "value": ""
+            },
+            "problem_conf_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "stress_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "relax_method": {
+                "value": 0
+            },
+            "study_resource": {
+                "value": 0
+            },
+            "note_method": {
+                "value": ""
+            }
+        }
+    },
+    {
+        "student": "Student",
+        "class": "12",
+        "timestamp": "2025-08-12T19:31:13.392421",
+        "score_obtained": 2.5,
+        "total_weight": 10.0,
+        "percent_score": 25.0,
+        "details": {
+            "phy_mcq_1": {
+                "result": "incorrect",
+                "weight": 0
+            },
+            "chem_mcq_1": {
+                "result": "incorrect",
+                "weight": 0
+            },
+            "math_mcq_1": {
+                "result": "correct",
+                "weight": 1
+            },
+            "time_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "revision_short": {
+                "value": ""
+            },
+            "problem_conf_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "stress_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "math_short": {
+                "value": ""
+            },
+            "study_resource_mcq": {
+                "value": 0
+            },
+            "note_method": {
+                "value": ""
+            }
+        }
+    },
+    {
+        "student": "Ayushi",
+        "class": "Other",
+        "timestamp": "2025-08-12T20:09:43.912877",
+        "score_obtained": 4.5,
+        "total_weight": 10.0,
+        "percent_score": 45.0,
+        "details": {
+            "phy_mcq_1": {
+                "result": "correct",
+                "weight": 1
+            },
+            "chem_mcq_1": {
+                "result": "correct",
+                "weight": 1
+            },
+            "math_mcq_1": {
+                "result": "correct",
+                "weight": 1
+            },
+            "time_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "revision_short": {
+                "value": ""
+            },
+            "problem_conf_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "stress_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "math_short": {
+                "value": ""
+            },
+            "study_resource_mcq": {
+                "value": 0
+            },
+            "note_method": {
+                "value": ""
+            }
+        }
+    },
+    {
+        "student": "Student",
+        "class": "11",
+        "timestamp": "2025-08-12T21:37:23.632005",
+        "score_obtained": 3.5,
+        "total_weight": 10,
+        "percent_score": 35.0,
+        "details": {
+            "phy_mcq_1": {
+                "result": "correct",
+                "weight": 1
+            },
+            "chem_mcq_1": {
+                "result": "incorrect",
+                "weight": 0
+            },
+            "math_mcq_1": {
+                "result": "correct",
+                "weight": 1
+            },
+            "time_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "rev_hours": {
+                "value": ""
+            },
+            "prob_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "stress_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "chem_short_1": {
+                "value": ""
+            },
+            "math_short_1": {
+                "value": ""
+            },
+            "relax_mcq": {
+                "value": 0
+            }
+        }
+    },
+    {
+        "student": "Student",
+        "class": "11",
+        "timestamp": "2025-08-12T21:47:31.186551",
+        "score_obtained": 3.5,
+        "total_weight": 10,
+        "percent_score": 35.0,
+        "details": {
+            "phy_mcq_1": {
+                "result": "correct",
+                "weight": 1
+            },
+            "chem_mcq_1": {
+                "result": "incorrect",
+                "weight": 0
+            },
+            "math_mcq_1": {
+                "result": "correct",
+                "weight": 1
+            },
+            "time_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "rev_hours": {
+                "value": ""
+            },
+            "prob_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "stress_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "chem_short_1": {
+                "value": ""
+            },
+            "math_short_1": {
+                "value": ""
+            },
+            "relax_mcq": {
+                "value": 0
+            }
+        }
+    },
+    {
+        "student": "deek",
+        "class": "11",
+        "timestamp": "2025-08-12T21:48:11.289176",
+        "score_obtained": 3.5,
+        "total_weight": 10,
+        "percent_score": 35.0,
+        "details": {
+            "phy_mcq_1": {
+                "result": "correct",
+                "weight": 1
+            },
+            "chem_mcq_1": {
+                "result": "incorrect",
+                "weight": 0
+            },
+            "math_mcq_1": {
+                "result": "correct",
+                "weight": 1
+            },
+            "time_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "rev_hours": {
+                "value": ""
+            },
+            "prob_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "stress_scale": {
+                "value": 3.0,
+                "normalized": 0.5
+            },
+            "chem_short_1": {
+                "value": ""
+            },
+            "math_short_1": {
+                "value": ""
+            },
+            "relax_mcq": {
+                "value": 0
+            }
+        }
+    }
+]

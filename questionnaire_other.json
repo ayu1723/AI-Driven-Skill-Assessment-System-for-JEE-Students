@@ -1,0 +1,78 @@
+{
+  "title": "JEE SOCA Assessment - Easy Level",
+  "questions": [
+    {
+      "id": "phy_mcq_1",
+      "type": "mcq",
+      "prompt": "What is the value of g on Earth?",
+      "options": ["9.8 m/s^2", "10 m/s^2", "8 m/s^2", "None"],
+      "answer_key": 0,
+      "weight": 1
+    },
+    {
+      "id": "chem_mcq_1",
+      "type": "mcq",
+      "prompt": "Water's chemical formula is:",
+      "options": ["H2O", "CO2", "NaCl", "O2"],
+      "answer_key": 0,
+      "weight": 1
+    },
+    {
+      "id": "math_mcq_1",
+      "type": "mcq",
+      "prompt": "2 + 2 × 2 = ?",
+      "options": ["6", "8", "4", "10"],
+      "answer_key": 0,
+      "weight": 1
+    },
+    {
+      "id": "time_scale",
+      "type": "scale",
+      "prompt": "How well do you stick to your study schedule?",
+      "min": 1,
+      "max": 5,
+      "weight": 1
+    },
+    {
+      "id": "revision_short",
+      "type": "short",
+      "prompt": "How do you prepare for an easy test?",
+      "weight": 1
+    },
+    {
+      "id": "problem_conf_scale",
+      "type": "scale",
+      "prompt": "How confident are you with basic calculations?",
+      "min": 1,
+      "max": 5,
+      "weight": 1
+    },
+    {
+      "id": "stress_scale",
+      "type": "scale",
+      "prompt": "How calm are you during easy exams?",
+      "min": 1,
+      "max": 5,
+      "weight": 1
+    },
+    {
+      "id": "math_short",
+      "type": "short",
+      "prompt": "Explain how you solve a simple addition problem.",
+      "weight": 1
+    },
+    {
+      "id": "study_resource_mcq",
+      "type": "mcq",
+      "prompt": "What do you use most to prepare for tests?",
+      "options": ["School notes", "Textbook", "Online videos", "Friends' help"],
+      "weight": 1
+    },
+    {
+      "id": "note_method",
+      "type": "short",
+      "prompt": "How do you take simple notes?",
+      "weight": 1
+    }
+  ]
+}
